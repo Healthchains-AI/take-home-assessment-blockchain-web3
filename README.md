@@ -184,7 +184,7 @@ Enhance the backend to:
    - Get access requests for a patient
    - Query contract events
 
-### Task 3: Frontend Enhancement (Required)
+### Task 3: Frontend Enhancement (Optional)
 
 Improve the frontend:
 
@@ -206,26 +206,26 @@ If time permits, consider:
 
 ## Evaluation Criteria
 
-### Smart Contract (40%)
+### Smart Contract (45%)
 - Code quality and organization
 - Security best practices
 - Gas optimization
 - Comprehensive testing (if provided)
 - Documentation
 
-### Backend Integration (30%)
+### Backend Integration (35%)
 - Web3 integration quality
 - API design
 - Error handling
 - Code organization
 
-### Frontend Development (20%)
+### Frontend Development (Nice to have)
 - Web3 wallet integration
 - User interface quality
 - State management
 - Error handling
 
-### Overall (10%)
+### Overall (20%)
 - Code organization
 - Documentation
 - Best practices
