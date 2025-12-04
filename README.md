@@ -57,7 +57,7 @@ This assessment project is designed to evaluate candidates for the **Senior Bloc
 - Ability to integrate Web3/blockchain functionality
 - API design and data handling
 
-### 3. Frontend Development
+### 3. Frontend Development (Nice to have)
 
 **Task:** Build a React frontend that connects to Web3 and interacts with the smart contract.
 
